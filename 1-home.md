@@ -1,17 +1,15 @@
 ---
 layout: home
-title: Home
+title: Inicio
 permalink: /
 ---
 
-# THIS IS THE FIRST TITLE
+# Costa Rica: pacientes de minorías enfrentan dificultades para acceder a antirretrovirales en la pandemia
 
-This text is a paragraph.
-This won't be another paragraph, it will join the line above it.
+La Caja Costarricense del Seguro Social aceleró un plan para que las medicinas se retiren en los Equipos Básicos de Atención Integral en Salud (Ebáis) y clínicas locales para evitar que las personas acudan a los hospitales nacionales. Se buscaba disminuir el riesgo de contagio de COVID-19, pero la medida ha ocasionado retrasos en la entrega de fármacos a pacientes con VIH de poblaciones indígenas, migrantes y en situación de pobreza.
 
-This will be another paragraph, as it has a blank line above it.
 
-[Website version](https://towerbuilder.projectpoder.org/)
-[Website iframe version](https://towerbuilder.projectpoder.org/?iframe)
-[Visualization iframe](https://towerbuilder.projectpoder.org/iframe-visualization/)
-[Slider iframe](https://towerbuilder.projectpoder.org/iframe-slider/)
+[Reportaje](/2018/11/27/reportaje.html)
+[Entrevista](/entrevista/)
+[Testimonios](/testimonios/)
+[Contratos](/contratos/)
