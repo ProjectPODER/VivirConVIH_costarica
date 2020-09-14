@@ -4,6 +4,9 @@ title: "Costa Rica: pacientes de minorías enfrentan dificultades para acceder a
 author: "Hassel Fallas"
 ---
 
+{:.image-post}
+![Costa Rica: pacientes de minorías enfrentan dificultades para acceder a antirretrovirales en la pandemia]({{ site.baseurl }}/assets/img/COSTARICA.jpg)
+
 Desde que la pandemia llegó a Costa Rica, Manuel Agüero, coordinador del Proyecto VIH de la Iglesia Luterana en el país, empieza y termina sus días revisando un chat de *Whatsapp* con 150 personas seropositivas. El grupo fue creado por Agüero para brindar información y soporte emocional a quienes, en medio de las restricciones por la emergencia sanitaria, enfrentan dificultades para conseguir los fármacos antirretrovirales que necesitan para vivir.
 
 Los antirretrovirales son capaces de desacelerar el avance del virus del VIH dentro del organismo, lo que permite mantener el sistema inmunitario fuerte. Además, reducen las posibilidades de contraer una infección oportunista y de transmitir el virus. La terapia requiere de tomar una combinación de medicamentos a diario y a una hora determinada. No hacerlo es correr el riesgo de que el virus se vuelva a replicar o mute. Desde el 6 de marzo, cuando se detectó el primer caso de covid-19, cientos de personas viven con la angustia de estar corriendo ese riesgo contra su voluntad.

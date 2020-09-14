@@ -6,8 +6,9 @@ permalink: /entrevista/
 
 # “Quizá no se erradique el VIH, pero vendrá una cura que lo controle mejor”
 
-*La cura funcional del VIH sería posible en los próximos años y transformaría la vida de las personas que viven con el virus al controlar mejor la infección sin necesidad de un tratamiento continuo, prevé el infectólogo Antonio Solano Chinchilla. Hay esperanzas en la eficacia de la interacción de medicamentos con diferentes mecanismos de acción.*
+**_La cura funcional del VIH sería posible en los próximos años y transformaría la vida de las personas que viven con el virus al controlar mejor la infección sin necesidad de un tratamiento continuo, prevé el infectólogo Antonio Solano Chinchilla. Hay esperanzas en la eficacia de la interacción de medicamentos con diferentes mecanismos de acción._**
 
+*Por Hassel Fallas • Septiembre 22, 2020*
 
 Los primeros casos de VIH en Costa Rica se atendieron en 1983. Al inicio, frente a una epidemia que el mundo empezaba a conocer, a los pacientes sólo se les daba vitaminas y se trataba las enfermedades oportunistas del VIH, como la neumonía y la tuberculosis, frente a un sistema inmunitario debilitado. Las personas morían un año después de su diagnóstico. 
 
@@ -16,6 +17,10 @@ Los tratamientos contra el virus de inmunodeficiencia humana han ido evolucionan
 
 ## Se van a cumplir cuatro décadas de convivir con el VIH. ¿Qué avances han habido en este tiempo?
 En el aspecto médico ha habido avances significativos. Antes se les daban muchas pastillas a los pacientes. ¡El famoso cóctel VIH era terrible! Actualmente se les está dando como medicamento de primera línea un combinado de tres pastillas en una y estamos a la espera de que llegue un nuevo fármaco que mejoraría la adherencia de los pacientes, un aspecto fundamental para mantener suprimida la carga viral. Este producto es comercializado por la Organización Panamericana de la Salud (OPS) y se llama Dolutegravir. Se trata de una sola pastilla en conjunto con el Tenofovir y Lamivudine. La llegada de este medicamento se ha retrasado debido a la covid-19 que ha complicado el despacho de medicinas, la logística y el abastecimiento de antirretrovirales en el mundo.  
+
+{:.image-post}
+![Crédito de la foto: Mayela López (para uso de Costa Rica)]({{ site.baseurl }}/assets/img/Antonio-Solano03.jpg)
+El infectólogo Antonio Solano Chinchilla no cree que - en el mediano plazo- haya una cura única para el VIH sino, más bien, la interacción de medicamentos con diferentes mecanismos de acción para mejorar la calidad de vida de los pacientes.
 
 ## ¿Hacia dónde avanza el VIH en el mediano y el largo plazo? ¿Podemos ser optimistas sobre esta epidemia? 
 Con el VIH podemos ser optimistas moderados. Quizá no se erradique el virus, pero sí vendrá una cura funcional, que controle mejor la infección mediante una serie de medicamentos llamados neutralizantes. El efecto de ese tratamiento haría que la persona pueda mantenerse un tiempo prolongado sin necesidad de un tratamiento continuo, como el actual. Esto podría ocurrir antes de una década. La cura que quisiéramos, la vacuna que elimine el virus, esa sí va más lento, es una posibilidad más lejana. 
@@ -41,6 +46,4 @@ Las personas con VIH, como cualquiera otra, deben ser estrictas en la higiene de
 ## ¿Qué consecuencias podría tener en los pacientes la interrupción de sus terapias con antirretrovirales?
 Depende del medicamento que tome el paciente. Si a la persona se le prescribe Efavirenz y lo toma intermitente -tres olvidos al mes, por decir un ejemplo- corre el riesgo de que se presenten mutaciones del virus. Hay que considerar que todo depende del nivel de células CD4 con las que se empezó el tratamiento. Si se inicia con un nivel muy bajo se podría caer otra vez en la enfermedad. 
 
-{:.image-post}
-![Crédito de la foto: Mayela López (para uso de Costa Rica)]({{ site.baseurl }}/assets/img/Antonio-Solano03.jpg)
-El infectólogo Antonio Solano Chinchilla no cree que - en el mediano plazo- haya una cura única para el VIH sino, más bien, la interacción de medicamentos con diferentes mecanismos de acción para mejorar la calidad de vida de los pacientes.
+
