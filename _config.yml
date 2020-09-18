@@ -13,14 +13,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Tower Builder
+title: Vivir con VIH Costa Rica
 
 # Logo image
 image: vih-costarica.png
 
 #Description of your site
 description: >-
-  TowerBuilder is a system to generate websites with data visualizations that mix open contracting and beneficial ownership data, all without requiring programming knowledge.
+  La Caja del Seguro Social aceleró un plan para que las medicinas se retiren de las clínicas para evitar que las personas acudan a los hospitales y disminuir el riesgo de contagio de COVID-19, pero la medida ha ocasionado retrasos.
 
 # URL of your contracts file or API endpoint
 contracts_url: "https://landing.vivirconvih.org/assets/data/vih_costarica.csv"
