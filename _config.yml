@@ -23,7 +23,7 @@ description: >-
   La Caja del Seguro Social aceleró un plan para que las medicinas se retiren de las clínicas para evitar que las personas acudan a los hospitales y disminuir el riesgo de contagio de COVID-19, pero la medida ha ocasionado retrasos.
 
 # URL of your contracts file or API endpoint
-contracts_url: "https://landing.vivirconvih.org/assets/data/vih_costarica.csv"
+contracts_url: "https://vivirconvih.org/assets/data/vih_costarica.csv"
 #contracts_url: "https://api.beta.quienesquien.wiki/v2/contracts?sort=-compiledRelease.total_amount&compiledRelease.parties.memberOf.name=%2FGrupo%20Aeroportuario%2Fi&debug=true&limit=614"
 
 
@@ -32,7 +32,7 @@ bods_url: ""
 
 graph:
   # The name of your graphic
-  - title: "Graphic name"
+  - title: "Costa Rica 2017-19"
   # los tamaños minimos y maximos de los nodos (en pixeles, aproximativo)
   - sizes:
     - min: 10
