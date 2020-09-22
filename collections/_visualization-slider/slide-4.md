@@ -7,5 +7,5 @@ La Organización Panamericana de la Salud, un mecanismo internacional de compra 
 
 El país presenta un 27% de variación respecto a los precios de referencia, situándose como el segundo país, de los seis analizados, que mejor compra. Aún así, se podrían haber pagado 2,44 millones en lugar de los 3,36 y haber invertido la diferencia en mejorar la cobertura. 
 
-[VER INFORME COMPLETO]()
+[VER INFORME COMPLETO](https://vivirconvih.org/assets/informevivirconvih.pdf)
 
