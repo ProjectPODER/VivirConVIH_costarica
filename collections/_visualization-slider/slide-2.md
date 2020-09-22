@@ -1,6 +1,6 @@
 ---
 title: Slide 2
-image: visualization-example.png
+image: visualizacion2.jpg
 ---
 
 Las compras de ARV se han realizado con hasta seis modalidades de compra, siendo la Contratación Directa y la Licitación las dos mayoritarias. Costa Rica usa tanto la compra a proveedores locales como los mecanismos internacionales para abastecerse. 

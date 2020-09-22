@@ -1,6 +1,6 @@
 ---
 title: Slide 3
-image: visualization-example.png
+image: visualizacion3.jpg
 ---
 
 La combinación en una pastilla de Efavirenz, Emtricitabina y Tenofovir es la presentación más comprada de los 13 ARV que compra el Estado costarricense. Se trata de un tratamiento muy habitual en los pacientes de primera línea. 

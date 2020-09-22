@@ -18,4 +18,11 @@
   <script>
     window.graphConfig = {{ site.graph | jsonify }};
   </script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    
+    gtag('config', 'UA-130129701-1');
+  </script>
 </head>

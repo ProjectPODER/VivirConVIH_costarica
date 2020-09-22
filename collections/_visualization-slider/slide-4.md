@@ -1,6 +1,6 @@
 ---
 title: Slide 4
-image: visualization-example.png
+image: visualizacion4.jpg
 ---
 
 La Organización Panamericana de la Salud, un mecanismo internacional de compra de ARV, es el principal proveedor tanto por importe como por cantidad. Stendhal Costa Rica y Farmacias EOS son los dos principales subministradores privados de antirretrovirales.
